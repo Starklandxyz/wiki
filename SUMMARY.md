@@ -16,7 +16,6 @@
 
 * [🛠 DEV](fundamentals/getting-set-up/README.md)
 * [📝 Development Guide](fundamentals/getting-set-up/setting-permissions.md)
-* [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
 
 ## Use Cases
 
