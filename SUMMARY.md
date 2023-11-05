@@ -17,6 +17,7 @@
 
 * [🗺 Encyclopedia](product-guides/encyclopedia/README.md)
   * [Status Bar](product-guides/encyclopedia/status-bar.md)
+  * [Lucky Packs](product-guides/encyclopedia/lucky-packs.md)
   * [Realm world](product-guides/encyclopedia/realm-world.md)
 * [⚖ Formula](product-guides/formula.md)
 
