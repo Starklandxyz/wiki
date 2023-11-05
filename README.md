@@ -15,45 +15,30 @@ In this full on-chain world, hundreds of Starknet users will compete for glory a
 
 <figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-RPC :&#x20;
 
-[https://api.cartridge.gg/x/starklandv001/katana](https://api.cartridge.gg/x/starklandv001/katana)
-
-Game URL :&#x20;
-
-[StarkLand](https://app.starkland.xyz/)\
-
-
-Github :
-
-[Github repositories](https://github.com/orgs/Starklandxyz/repositories)
-
-Contracts :&#x20;
-
-[Starkland Contracts](https://github.com/Starklandxyz/contract)
 
 ## Quick links
 
-{% content-ref url="overview/what-we-do.md" %}
-[what-we-do.md](overview/what-we-do.md)
+{% content-ref url="product-guides/quick-start.md" %}
+[quick-start.md](product-guides/quick-start.md)
 {% endcontent-ref %}
 
-{% content-ref url="overview/our-features.md" %}
-[our-features.md](overview/our-features.md)
+{% content-ref url="how-to-play/our-features.md" %}
+[our-features.md](how-to-play/our-features.md)
 {% endcontent-ref %}
 
 ## Get Started
 
 We've put together some helpful guides for you to get setup with our product quickly and easily.
 
-{% content-ref url="fundamentals/dev/" %}
-[dev](fundamentals/dev/)
+{% content-ref url="development/dev.md" %}
+[dev.md](development/dev.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/dev/development-guide.md" %}
-[development-guide.md](fundamentals/dev/development-guide.md)
+{% content-ref url="development/development-guide.md" %}
+[development-guide.md](development/development-guide.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/dev/inviting-members.md" %}
-[inviting-members.md](fundamentals/dev/inviting-members.md)
+{% content-ref url="development/inviting-members.md" %}
+[inviting-members.md](development/inviting-members.md)
 {% endcontent-ref %}

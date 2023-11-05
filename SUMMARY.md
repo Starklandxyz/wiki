@@ -2,21 +2,21 @@
 
 * [👋 Starkland -- SLG Full on chain game](README.md)
 
-## Overview
+## How to play
 
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [🎮 Quick Start](how-to-play/quick-start.md)
+* [✨ Our Features](how-to-play/our-features.md)
 
 ## Product Guides
 
-* [📪 Making a post](product-guides/making-a-post.md)
+* [💡 Quick Start](product-guides/quick-start.md)
 * [📎 Understanding Projects](product-guides/understanding-projects.md)
 
-## Fundamentals
+## Development
 
-* [🛠 DEV](fundamentals/dev/README.md)
-  * [📝 Development Guide](fundamentals/dev/development-guide.md)
-  * [🧑 Inviting Members](fundamentals/dev/inviting-members.md)
+* [🛠 DEV](development/dev.md)
+* [📝 Development Guide](development/development-guide.md)
+* [🧑 Inviting Members](development/inviting-members.md)
 
 ## Use Cases
 

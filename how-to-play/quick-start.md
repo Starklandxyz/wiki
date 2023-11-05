@@ -1,4 +1,4 @@
-# 📪 Making a post
+# 🎮 Quick Start
 
 ## Step 1 - Start journalling
 
