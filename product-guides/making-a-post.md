@@ -2,24 +2,27 @@
 
 ## Step 1 - Start journalling
 
+1. Open the page, and locate the "Create Wallet" button on the far right of the top status bar.
+
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+2. Please make sure that you are in the correct realm world.
 
 <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
+3. Enter a name you like and press the "Create Player" button.
+
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+4. Locate the "Build Base" button on the screen and establish your base on land without resources and water.
 
 <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
+### &#x20;Good job, you have taken a significant step.
+
+5. Now, find the "Task & Airdrop" button on the top status bar. In the interface that opens, click the "Claim" button to receive your first supply package.
+
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+6. Please continue to complete the game according to the task prompts in the Task & Airdrop interface.
 
-Donec sed odio dui. Curabitur blandit tempus porttitor. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec ullamcorper nulla non metus auctor fringilla. Maecenas sed diam eget risus varius blandit sit amet non magna. Aenean lacinia bibendum nulla sed consectetur.
-
-![](https://images.unsplash.com/photo-1522881451255-f59ad836fdfb?crop=entropy\&cs=tinysrgb\&fm=jpg\&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw0fHx3cml0ZXxlbnwwfHx8fDE2NjA1ODc5Nzk\&ixlib=rb-1.2.1\&q=80)
-
-## Step 2 - Create Post
-
-Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Donec ullamcorper nulla non metus auctor fringilla. Nullam quis risus eget urna mollis ornare vel eu leo. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
-
-![](https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?crop=entropy\&cs=tinysrgb\&fm=jpg\&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw2fHxwb3N0fGVufDB8fHx8MTY2MDU4ODAzMg\&ixlib=rb-1.2.1\&q=80)
