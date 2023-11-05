@@ -1,18 +1,5 @@
 # ✨ Operational Introduction
 
-{% content-ref url="dispatch-troops.md" %}
-[dispatch-troops.md](dispatch-troops.md)
-{% endcontent-ref %}
+This interface will inform you about the functions of other buttons in the game.
 
-## Attack and OccupyDispatch Troops
-
-{% content-ref url="attack-and-occupy.md" %}
-[attack-and-occupy.md](attack-and-occupy.md)
-{% endcontent-ref %}
-
-
-
-##
-
-
-
+Please read the following five subsections carefully.

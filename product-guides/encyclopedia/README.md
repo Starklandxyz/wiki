@@ -8,4 +8,6 @@
 
 Got 2 minutes? Check out a video overview of our product:
 
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 {% embed url="https://www.loom.com/embed/3bfa83acc9fd41b7b98b803ba9197d90" %}
