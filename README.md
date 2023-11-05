@@ -1,10 +1,12 @@
-# 👋 Welcome to A Product
+# 👋 Welcome to Starkland
 
-{% hint style="info" %}
-**GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
+{% hint style="success" %}
+**Team tip:** You can read the quick start for the game.
 {% endhint %}
 
 ## Overview
+
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Here are a couple of example overviews from products with really great docs:
 
