@@ -9,7 +9,8 @@
   * [💂♀ Dispatch Troops](how-to-play/operational-introduction/dispatch-troops.md)
   * [⚔ Attack and Occupy](how-to-play/operational-introduction/attack-and-occupy.md)
   * [🛡 Withdraw Troops](how-to-play/operational-introduction/withdraw-troops.md)
-  * [Construct Buildings](how-to-play/operational-introduction/construct-buildings.md)
+  * [🛠 Construct Buildings](how-to-play/operational-introduction/construct-buildings.md)
+  * [⛏ Gathering and Upgrading](how-to-play/operational-introduction/gathering-and-upgrading.md)
 
 ## Product Guides
 
@@ -18,5 +19,5 @@
 
 ## Development
 
-* [🛠 Board](fundamentals/getting-set-up/README.md)
+* [⚙ Board](fundamentals/getting-set-up/README.md)
 * [📝 Guide](fundamentals/getting-set-up/setting-permissions.md)
