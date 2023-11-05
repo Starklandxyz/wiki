@@ -1,4 +1,4 @@
-# 📎 Understanding Projects
+# ⚖ Formula
 
 ## How Projects work
 

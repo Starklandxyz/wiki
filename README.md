@@ -29,18 +29,14 @@ In this full on-chain world, hundreds of Starknet users will compete for glory a
 [our-features.md](overview/our-features.md)
 {% endcontent-ref %}
 
-## Get Started
+## For Dev
 
 We've put together some helpful guides for you to get setup with our product quickly and easily.
 
-{% content-ref url="development/board.md" %}
-[board.md](development/board.md)
+{% content-ref url="fundamentals/getting-set-up/" %}
+[getting-set-up](fundamentals/getting-set-up/)
 {% endcontent-ref %}
 
-{% content-ref url="development/guide.md" %}
-[guide.md](development/guide.md)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="fundamentals/getting-set-up/setting-permissions.md" %}
+[setting-permissions.md](fundamentals/getting-set-up/setting-permissions.md)
 {% endcontent-ref %}

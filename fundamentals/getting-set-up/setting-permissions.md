@@ -1,4 +1,4 @@
-# 📝 Development Guide
+# 📝 Guide
 
 {% hint style="info" %}
 **Starkland tip:** If you're not a developer, you don't need to focus on this section.

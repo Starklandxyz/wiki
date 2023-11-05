@@ -9,10 +9,10 @@
 
 ## Product Guides
 
-* [💡 Quick Start](overview/what-we-do.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
+* [🗺 Encyclopedia](product-guides/encyclopedia.md)
+* [⚖ Formula](product-guides/formula.md)
 
 ## Development
 
-* [🛠 Board](development/board.md)
-* [📝 Guide](development/guide.md)
+* [🛠 Board](fundamentals/getting-set-up/README.md)
+* [📝 Guide](fundamentals/getting-set-up/setting-permissions.md)
