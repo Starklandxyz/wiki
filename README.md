@@ -19,8 +19,10 @@ In this full on-chain world, hundreds of Starknet users will compete for glory a
 
 ## Quick links
 
-{% content-ref url="overview/what-we-do.md" %}
-[what-we-do.md](overview/what-we-do.md)
+
+
+{% content-ref url="product-guides/making-a-post.md" %}
+[making-a-post.md](product-guides/making-a-post.md)
 {% endcontent-ref %}
 
 {% content-ref url="overview/our-features.md" %}
@@ -31,12 +33,12 @@ In this full on-chain world, hundreds of Starknet users will compete for glory a
 
 We've put together some helpful guides for you to get setup with our product quickly and easily.
 
-{% content-ref url="fundamentals/getting-set-up/" %}
-[getting-set-up](fundamentals/getting-set-up/)
+{% content-ref url="development/board.md" %}
+[board.md](development/board.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/getting-set-up/setting-permissions.md" %}
-[setting-permissions.md](fundamentals/getting-set-up/setting-permissions.md)
+{% content-ref url="development/guide.md" %}
+[guide.md](development/guide.md)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}

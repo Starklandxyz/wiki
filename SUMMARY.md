@@ -14,10 +14,5 @@
 
 ## Development
 
-* [🛠 DEV](fundamentals/getting-set-up/README.md)
-* [📝 Development Guide](fundamentals/getting-set-up/setting-permissions.md)
-
-## Use Cases
-
-* [🎨 For Designers](use-cases/for-designers.md)
-* [🖥 For Developers](use-cases/for-developers.md)
+* [🛠 Board](development/board.md)
+* [📝 Guide](development/guide.md)
