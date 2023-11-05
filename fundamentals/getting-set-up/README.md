@@ -4,7 +4,7 @@
 
 {% embed url="https://api.cartridge.gg/x/starklandv001/katana" %}
 
-## Gme  sdsdadsdsd
+## Game
 
 {% embed url="https://app.starkland.xyz/" %}
 
