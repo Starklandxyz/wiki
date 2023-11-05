@@ -13,7 +13,7 @@ Welcome to StarkLand ! This is the First Full On-chain Multiplayer Online Simula
 
 In this full on-chain world, hundreds of Starknet users will compete for glory and territories. Here, you can create your own empire, build magnificent cities, cultivate bountiful farmlands, mine endless resources, train powerful warriors, explore challenging dungeons for unknown treasures, and engage in fierce battles with other StarkLand players!
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -25,8 +25,8 @@ In this full on-chain world, hundreds of Starknet users will compete for glory a
 [making-a-post.md](product-guides/making-a-post.md)
 {% endcontent-ref %}
 
-{% content-ref url="overview/our-features.md" %}
-[our-features.md](overview/our-features.md)
+{% content-ref url="how-to-play/operational-introduction/" %}
+[operational-introduction](how-to-play/operational-introduction/)
 {% endcontent-ref %}
 
 ## For Dev
