@@ -4,11 +4,11 @@
 
 {% embed url="https://api.cartridge.gg/x/starklandv001/katana" %}
 
-## GAME
+## Gme  sdsdadsdsd
 
 {% embed url="https://app.starkland.xyz/" %}
 
-## GITHUB
+## Github
 
 {% embed url="https://github.com/orgs/Starklandxyz/repositories" %}
 

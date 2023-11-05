@@ -4,19 +4,19 @@
 
 ## How to play
 
-* [🎮 Quick Start](how-to-play/quick-start.md)
-* [✨ Our Features](how-to-play/our-features.md)
+* [🎮 Quick Start](product-guides/making-a-post.md)
+* [✨ Our Features](overview/our-features.md)
 
 ## Product Guides
 
-* [💡 Quick Start](product-guides/quick-start.md)
+* [💡 Quick Start](overview/what-we-do.md)
 * [📎 Understanding Projects](product-guides/understanding-projects.md)
 
 ## Development
 
-* [🛠 DEV](development/dev.md)
-* [📝 Development Guide](development/development-guide.md)
-* [🧑 Inviting Members](development/inviting-members.md)
+* [🛠 DEV](fundamentals/getting-set-up/README.md)
+* [📝 Development Guide](fundamentals/getting-set-up/setting-permissions.md)
+* [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
 
 ## Use Cases
 
