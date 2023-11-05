@@ -1,4 +1,4 @@
-# 👋 Welcome to Starkland
+# 👋 Starkland -- SLG Full on chain game
 
 {% hint style="success" %}
 **Team tip:** You can read the quick start for the game.
@@ -6,19 +6,31 @@
 
 ## Overview
 
+**Starkland**\
+
+
+Welcome to StarkLand ! This is the First Full On-chain Multiplayer Online Simulation Game (FOMOSLG) built with Dojo engine on Starknet !
+
+In this full on-chain world, hundreds of Starknet users will compete for glory and territories. Here, you can create your own empire, build magnificent cities, cultivate bountiful farmlands, mine endless resources, train powerful warriors, explore challenging dungeons for unknown treasures, and engage in fierce battles with other StarkLand players!
+
 <figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-Here are a couple of example overviews from products with really great docs:
+RPC :&#x20;
 
-> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
->
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
->
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
+[https://api.cartridge.gg/x/starklandv001/katana](https://api.cartridge.gg/x/starklandv001/katana)
 
-> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
->
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
+Game URL :&#x20;
+
+[StarkLand](https://app.starkland.xyz/)\
+
+
+Github :
+
+[Github repositories](https://github.com/orgs/Starklandxyz/repositories)
+
+Contracts :&#x20;
+
+[Starkland Contracts](https://github.com/Starklandxyz/contract)
 
 ## Quick links
 
@@ -34,14 +46,14 @@ Here are a couple of example overviews from products with really great docs:
 
 We've put together some helpful guides for you to get setup with our product quickly and easily.
 
-{% content-ref url="fundamentals/getting-set-up/" %}
-[getting-set-up](fundamentals/getting-set-up/)
+{% content-ref url="fundamentals/dev/" %}
+[dev](fundamentals/dev/)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/getting-set-up/setting-permissions.md" %}
-[setting-permissions.md](fundamentals/getting-set-up/setting-permissions.md)
+{% content-ref url="fundamentals/dev/development-guide.md" %}
+[development-guide.md](fundamentals/dev/development-guide.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/getting-set-up/inviting-members.md" %}
-[inviting-members.md](fundamentals/getting-set-up/inviting-members.md)
+{% content-ref url="fundamentals/dev/inviting-members.md" %}
+[inviting-members.md](fundamentals/dev/inviting-members.md)
 {% endcontent-ref %}

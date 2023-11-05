@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome to Starkland](README.md)
+* [👋 Starkland -- SLG Full on chain game](README.md)
 
 ## Overview
 
@@ -14,9 +14,9 @@
 
 ## Fundamentals
 
-* [🛠 Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
+* [🛠 DEV](fundamentals/dev/README.md)
+  * [📝 Development Guide](fundamentals/dev/development-guide.md)
+  * [🧑 Inviting Members](fundamentals/dev/inviting-members.md)
 
 ## Use Cases
 
